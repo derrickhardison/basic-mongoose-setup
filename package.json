@@ -1,0 +1,24 @@
+{
+  "name": "section27-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derrickhardison/basic-mongoose-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derrickhardison/basic-mongoose-setup/issues"
+  },
+  "homepage": "https://github.com/derrickhardison/basic-mongoose-setup#readme",
+  "dependencies": {
+    "mongoose": "^5.11.18"
+  }
+}
